@@ -20,7 +20,8 @@ const Navbar = () =>{
             <div className={s.item}>
                 <a>Settings</a>
             </div>
-        </nav>);
+        </nav>
+    );
 }
 
 export default Navbar;
