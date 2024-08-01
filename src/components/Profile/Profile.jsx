@@ -4,8 +4,8 @@ import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () =>{
     return    (
-        <div className={s.content}>
-            <div>
+        <div>
+            <div className={s.content}>
                 <img alt='#' src='https://wallpapers.com/images/featured/beautiful-beach-pictures-j4g4bsole88brlvw.jpg'/>
             </div>
             <div>
