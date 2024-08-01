@@ -11,7 +11,7 @@ const Post = (props) => {
                     src="https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg"/>
                 {props.message}
                 <div>
-                    <span>like</span>
+                    <span>like</span> {props.likesCount}
                 </div>
             </div>
         </>
