@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Dialogs.module.css'
+
 
 const Dialogs = (props) =>{
     return (
@@ -8,5 +8,7 @@ const Dialogs = (props) =>{
         </div>
     )
 }
+
+console.log(Dialogs())
 
 export default Dialogs;
