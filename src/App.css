@@ -8,11 +8,9 @@
     grid-template-rows: 60px 1fr;
     grid-template-columns: 2fr 10fr;
     /*grid-gap: 10px;*/
-    text-decoration: none;
 }
 
 a{
-    text-decoration: none;
     color: inherit;
     transition: all 0.2s ease-in;
 }
